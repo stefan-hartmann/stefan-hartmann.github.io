@@ -1,0 +1,120 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Stefan Hartmann</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <style>
+    .topnav .icon {
+    display: none;
+  }
+
+  @media screen and (max-width: 700px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 700px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Stefan Hartmann</h1>
+        <p><strong>{ linguist }</strong></p>
+      </div>
+      
+      <div class="topnav" id="myTopnav">
+        <a href="index.html">Home</a>
+        <a href="publications.html">Publications</a>
+        <a href="talks.html">Talks</a>
+        <a href="#">Materials</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i></a>
+
+    </div>
+
+<br />
+<p><strong>Datasets</strong></p>
+
+<p>For datasets from my more recent projects, check my <a href="https://osf.io/7h2yu/">OSF</a> account and my <a href="https://github.com/hartmast/">Github</a> profile.</p>
+
+<p><a title="MHG ung Corpus" href="http://pfriemelpfuhl.bplaced.net/mhd_ung.csv">Middle High German "ung" Dataset</a></p>
+<p>The dataset used for my <a title="ung im Mhd" href="http://www.degruyter.com/view/j/bgsl.2013.135.issue-2/pbb-2013-0072/pbb-2013-0072.xml?format=INT">paper </a> on ung-nominalization in Middle High German, compiled from the corpus of the <a title="MHG Dictionary" href="http://www.mhdwb-online.de/">Middle High German Dictionary</a>.</p>
+
+<p><a title="beizeiten" href="pfriemelpfuhl.bplaced.net/beizeiten.csv">beizeiten</a></p>
+<p>A small database compiled for my <a title="beizeiten_Blogpost" href="http://pfriemelpfuhl.wordpress.com/2013/11/19/beizeiten-wird-alles-gut/">blog post</a> on the use of German <em>beizeiten</em> from two of the <a title="Cosmas II" href="http://www.ids-mannheim.de/cosmas2/">COSMAS II</a> subcorpora. You can also find the R script <a title="beizeiten R Script" href="http://pfriemelpfuhl.bplaced.net/beizeiten.R">here </a>(in German).</p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/37830898/Prefixation.zip">Prefixation Datasets</a></p>
+<p>Three datasets extracted from the Mainz Early New High German Corpus, the <a href="http://www.korpora.org/Fnhd/">FnhdC </a>Corpus, and the <a href="http://www.ota.ox.ac.uk/desc/2544">GerManC</a> corpus for a study on German prefix constructions.</p>
+
+<p><strong>Tutorials</strong></p>
+
+<p>Tutorial on automatization in R [<a href="http://pfriemelpfuhl.bplaced.net/automatization.zip">download zip folder with PDF file and R script</a>]</p>
+<p>Tutorial on web data mining using R (outdated - the websites used here have changed considerably so the code won't work any more) [<a href="http://pfriemelpfuhl.bplaced.net/data_mining.zip">download zip folder with PDF file and R script</a>]</p>
+
+
+<p><strong>R package <em>concordances</em></strong></p>
+<p>Corpus export files often come in formats that require certain modifications if you want to import them into a spreadsheet program or if you want to read them into R as a data frame. The aim of the R package <em>concordances</em> is to automatize this process. All you need is a corpus export file, and concordances will (try to) convert it for you. Available on <a href="https://github.com/hartmast/concordances" target="_blank">GitHub</a>.</p>
+
+<p>Quick guide in German: click <a href="http://pfriemelpfuhl.bplaced.net/concordances_anleitung.html">here</a>.</p>
+
+<p><strong>Corpus Linguistics Tutorials (in German)</strong></p>
+
+<p><h4>Einfache Korpusanalysen: Ein Schnelleinstieg</h4></p>
+<p>Wie der Titel schon sagt, bietet dieses Tutorial einen Schnelleinstieg in einfache Korpusanalysen. Es ist <a href="https://empirical-linguistics.github.io/korpus-schnelleinstieg/" target="_blank">hier </a>verfügbar.</p>
+
+<p><h4><strong>Begleitmaterialien zu "Deutsche Sprachgeschichte: Grundzüge und Methoden"</p>
+<p></strong></h4></p>
+<p>Auf <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial" target="_blank" rel="noopener">GitHub</a> findet sich die jeweils aktuellste Version des Begleitmaterials zu meiner methodisch orientierten Einführung in die deutsche Sprachgeschichte.</p>
+<p><h4><strong>Einsteiger-Tutorial für COSMAS II</strong></h4></p>
+<p>Über das Suchanfragesystem COSMAS II ist das Deutsche Referenzkorpus (DeReKo) zugänglich, das zweifelsohne zu den wichtigsten und meistgenutzten Quellen für die deutsche Gegenwartssprache und die jüngere Sprachgeschichte zählt. In diesem Tutorial wird erklärt, wie man in COSMAS II elementare Suchanfragen stellt und wie man mit den Exportdateien arbeiten kann. <a title="COSMAS II-Tutorial" href="https://pfriemelpfuhl.files.wordpress.com/2016/10/cosmasii_tutorial.pdf">Zum Tutorial</a></p>
+<p><h4><strong>Daten aus COSMAS II chronologisch sortieren</strong></h4></p>
+<p>COSMAS II bietet die Möglichkeit, die Treffer chronologisch zu sortieren. Für die weitergehende quantitative Analyse muss die Exportdatei jedoch oft in ein anderes Format überführt werden, bei dem zu jedem Treffer die jeweilige Jahreszahl angegeben ist. Dieses Tutorial stellt ein R-Skript vor, das - nach entsprechender Vorformatierung der Ausgabedatei - diese Arbeit automatisch erledigt. <a title="COSMAS II-Sortierung" href="https://pfriemelpfuhl.files.wordpress.com/2016/10/cosmasii_sortierung.pdf">Zum Tutorial</a></p>
+
+<p>Das Statistikprogramm R kann <a href="http://www.r-project.org/">hier</a> kostenlos heruntergeladen werden.</p>
+
+<p>Mein Skript ist <a href="http://pfriemelpfuhl.bplaced.net/cosmas_years.R" target="_blank" rel="noopener noreferrer">hier</a> zu finden, findet sich jedoch auch im Anhang des Tutorials.</p>
+<p><h4><strong>Konkordanzen aus dem Bonner Frühneuhochdeutschkorpus</strong></h4></p>
+<p><span style="color:#ff0000;">Veraltet: Das Bonner Frühneuhochdeutschkorpus nutzt inzwischen das ANNIS-Interface. Die alte Version, auf die sich das Tutorial bezieht, ist jedoch noch <a style="color:#ff0000;" href="https://korpora.zim.uni-due.de/Fnhd_alt/">hier</a> verfügbar.</span></p>
+
+<p>Das Bonner Frühneuhochdeutschkorpus (FnhdC) ist derzeit eine unserer wichtigsten Quellen zum Frühneuhochdeutschen. Jedoch ist es für AnfängerInnen schwierig, mit den herunterladbaren XML-Dateien zu arbeiten oder die Ergebnisse aus der Online-Suchschnittstelle in ein Tabellenkalkulationsprogramm zu übertragen. Dieses Tutorial stellt ein R-Skript vor, das dies in wenigen schnellen Schritten erledigt. <a href="https://pfriemelpfuhl.files.wordpress.com/2016/10/fnhdc_konkordanzen.pdf">Zum Tutorial</a></p>
+
+<p>Das Statistikprogramm R kann <a href="http://www.r-project.org/">hier</a> kostenlos heruntergeladen werden.</p>
+
+<p>Mein Skript ist <a href="http://pfriemelpfuhl.bplaced.net/getFnhdC.R">hier </a>zu finden, findet sich jedoch auch im Anhang des Tutorials.</p>
+<p><h4><strong>DWDS/DTA-Tutorial</strong></h4></p>
+<p><span style="color:#ff0000;">Veraltet: Erfreulicherweise wurde im neuen DWDS-Interface jetzt eine Exportfunktion implementiert, mit der man Konkordanzen unmittelbar als csv-Sheets exportieren kann, die sich mit Programmen wie Excel und Calc öffnen und auch problemlos zur Analyse in ein Programm wie R einlesen lassen.</span></p>
+
+<p>Über die Website des Digitalen Wörterbuchs der Deutschen Sprache haben wir Zugriff auf mehrere Korpora, darunter das DWDS-Kernkorpus und das Deutsche Textarchiv. Dieses Tutorial gibt eine Einführung in die Suche über die DWDS-Seite. Darüber hinaus wird gezeigt, wie die Daten weiter verarbeitet werden können. <a title="DWDS-Tutorial" href="https://pfriemelpfuhl.files.wordpress.com/2016/11/dwds_tutorial.pdf">Zum Tutorial</a></p>
+
+<p>Noch schneller und einfacher als im Tutorial beschrieben lassen sich die .txt- (nicht .xml-)Ausgabedateien von DWDS mit <a href="http://pfriemelpfuhl.bplaced.net/getDWDS.R">diesem </a>(noch wenig getesteten und daher möglicherweise noch fehlerbehafteten) R-Skript in Konkordanzen überführen.</p>
+<p><h4><strong>WaCkY-Tutorial</strong></h4></p>
+<p>Dank der "Web as Corpus kool Ynitiative" kann auch das Internet als Korpus genutzt werden - und dank des slowenischen Jožef Stefan Institute steht hierfür ein kostenloses und ohne Anmeldung zugängliches Web-Interface zur Verfügung. Damit sind die WaCkY-Korpora auch und gerade für Studierende besonders attraktiv. Das Tutorial gibt einen Einstieg in WaCkY und zeigt, wie die exportierten Daten weiter bearbeitet werden können. <a title="WaCkY Tutorial" href="https://pfriemelpfuhl.files.wordpress.com/2016/10/wacky-tutorial.pdf">Zum Tutorial </a></p>
+
+<p>Für Anregungen und Verbesserungsvorschläge zu den Tutorials bin ich natürlich jederzeit dankbar!
+<br />
+<br />
+<p style="text-align: center; font-size:10pt"><font color="grey">Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. View on <a href="https://github.com/hartmast/klosterfrauen/" target="_blank">GitHub</a></font></p>
+
+</body>
+</html> 
