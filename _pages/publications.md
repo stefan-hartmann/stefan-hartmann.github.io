@@ -9,11 +9,11 @@ Monographs
 ======
 - Pleyer, Michael & Stefan Hartmann (forthc.): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press.
 
-- Ungerer, Tobias & Stefan Hartmann (2023): Constructionist approaches. Past, present, future. Cambridge: Cambridge University Press. [open access]
+- Ungerer, Tobias & Stefan Hartmann (2023): Constructionist approaches. Past, present, future. Cambridge: Cambridge University Press. [<a href="https://doi.org/10.1017/9781009308717">open access</a>]
 
-- Hartmann, Stefan (2018): Deutsche Sprachgeschichte. Grundzüge und Methoden. Tübingen: Narr. [link] [Supplementary material] [Errata]
+- Hartmann, Stefan (2018): Deutsche Sprachgeschichte. Grundzüge und Methoden. Tübingen: Narr. [<a href="http://www.utb-shop.de/catalog/product/view/id/9557/category/702/">link</a>] [<a href="https://hartmast.github.io/sprachgeschichte/">Supplementary material</a>] [<a href="https://github.com/hartmast/sprachgeschichte/blob/master/begleitmaterial/Errata.pdf">Errata</a>]
 
-- Hartmann, Stefan (2016): Wortbildungswandel. Eine diachrone Studie zu deutschen Nominalisierungsmustern. (Studia Linguistica Germanica, 125.) Berlin, New York: De Gruyter. [link] [preview (Googlebooks)]  [datasets on TroLLing]
+- Hartmann, Stefan (2016): Wortbildungswandel. Eine diachrone Studie zu deutschen Nominalisierungsmustern. (Studia Linguistica Germanica, 125.) Berlin, New York: De Gruyter. [<a href="http://www.degruyter.com/view/product/469316">link</a>] [<a href="https://dataverse.no/dataset.xhtml?persistentId=hdl:10037.1/10285">datasets on TroLLing</a>]
 
 Journal papers
 ======
@@ -21,57 +21,57 @@ Journal papers
 
 - Hartmann, Stefan (2023): Komplexe Wörter zwischen Konstrukt und Konstruktion. Neuere gebrauchsbasierte Ansätze und ihre Implikationen für die Wortbildung. Zeitschrift für Wortbildung. [link](https://doi.org/10.21248/zwjw.2023.2.102)
 
-- Hartmann, Stefan & Tobias Ungerer (2023): Attack of the snowclones. A corpus-based analysis of extravagant formulaic patterns. Journal of Linguistics. [open access]
+- Hartmann, Stefan & Tobias Ungerer (2023): Attack of the snowclones. A corpus-based analysis of extravagant formulaic patterns. Journal of Linguistics. [<a href="https://doi.org/10.1017/9781009308717">open access</a>]
 
-- Cappelle, Bert, Robert Daugs & Stefan Hartmann (2023): The English privative prefixes near-, pseudo- and quasi-: Approximation and ‘disproximation’. Journal of Word Formation. [open access]
+- Cappelle, Bert, Robert Daugs & Stefan Hartmann (2023): The English privative prefixes near-, pseudo- and quasi-: Approximation and ‘disproximation’. Journal of Word Formation. [<a href="https://doi.org/10.21248/zwjw.2023.1.35">open access</a>]
 
-- Koch, Nikolas, Stefan Hartmann & Antje Endesfelder Quick (2022): Traceback and chunk-based learning. Comparing corpus-based computational approaches to child code-mixing. Languages. [open access]
+- Koch, Nikolas, Stefan Hartmann & Antje Endesfelder Quick (2022): Traceback and chunk-based learning. Comparing corpus-based computational approaches to child code-mixing. Languages. [<a href="https://doi.org/10.3390/languages7040271">open access</a>]
 
-- Pleyer, Michael, Ryan Lepic & Stefan Hartmann (2022): Compositionality in Different Modalities: A View from Usage-Based Linguistics. International Journal of Primatology. [open access]
+- Pleyer, Michael, Ryan Lepic & Stefan Hartmann (2022): Compositionality in Different Modalities: A View from Usage-Based Linguistics. International Journal of Primatology. [<a href="https://doi.org/10.1007/s10764-022-00330-x">open access</a>]
 
 - Hartmann, Stefan & Antje Endesfelder Quick (2022): und das da go to school. Bilingualer Spracherwerb und Phänomene mehrsprachigen Sprechens. Der Deutschunterricht.
 
-- Quick, Antje Endesfelder & Stefan Hartmann (2021): The building blocks of child bilingual code-mixing – A cross-corpus traceback approach. Frontiers in Psychology: Language Sciences. [open access]
+- Quick, Antje Endesfelder & Stefan Hartmann (2021): The building blocks of child bilingual code-mixing – A cross-corpus traceback approach. Frontiers in Psychology: Language Sciences. [<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.682838/full">open access</a>]
 
 - Hartmann, Stefan (2021): Diachronie der Zukunft: werden + Infinitiv und Konkurrenzkonstruktionen im Mittelhochdeutschen und Frühneuhochdeutschen. Beiträge zur Geschichte der deutschen Sprache und Literatur.
 
-- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann (2021): The Traceback method and the early constructicon: Theoretical and methodological considerations. Corpus Linguistics and Linguistic Theory. [open access]
+- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann (2021): The Traceback method and the early constructicon: Theoretical and methodological considerations. Corpus Linguistics and Linguistic Theory. [<a href="https://www.degruyter.com/document/doi/10.1515/cllt-2020-0045/html">link</a>]
 
-- Hartmann, Stefan, Sławomir Wacewicz, Przemysław Żywiczyński, Michael Pleyer & Antonio Benítez-Burraco (2021): Hypotheses and definitions in language evolution research. A reply to Mendívil-Giró. Biolinguistics. [link]
+- Hartmann, Stefan, Sławomir Wacewicz, Przemysław Żywiczyński, Michael Pleyer & Antonio Benítez-Burraco (2021): Hypotheses and definitions in language evolution research. A reply to Mendívil-Giró. Biolinguistics. [<a href="https://www.biolinguistics.eu/index.php/biolinguistics/article/view/879">link</a>]
 
-- Hartmann, Stefan & Michael Pleyer (2021): Constructing a protolanguage: Reconstructing prehistoric languages in a usage-based construction grammar framework. Philosophical Transactions of the Royal Society B. [link] [preprint]
+- Hartmann, Stefan & Michael Pleyer (2021): Constructing a protolanguage: Reconstructing prehistoric languages in a usage-based construction grammar framework. Philosophical Transactions of the Royal Society B. [<a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0200">link</a>] [<a href="https://psyarxiv.com/w8mtu/">preprint</a>]
 
-- Ungerer, Tobias & Stefan Hartmann (2020): Delineating extravagance. Assessing speakers’ perceptions of imaginative constructional patterns. Belgian Journal of Linguistics. [link] [preprint]
+- Ungerer, Tobias & Stefan Hartmann (2020): Delineating extravagance. Assessing speakers’ perceptions of imaginative constructional patterns. Belgian Journal of Linguistics. [<a href="https://benjamins.com/catalog/bjl.00058.ung">link</a>] [<a href="https://psyarxiv.com/5ma6s/">preprint</a>]
 
-- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann (2020): Individual differences in discourse priming. A traceback approach. Belgian Journal of Linguistics. [link]
+- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann (2020): Individual differences in discourse priming. A traceback approach. Belgian Journal of Linguistics. [<a href="https://benjamins.com/catalog/bjl.00045.koc">link</a>]
 
-- Pleyer, Michael & Stefan Hartmann (2020): Construction Grammar for monkeys? Animal communication and its implications for language evolution in the light of usage-based linguistic theory. Evolutionary Linguistic Theory. [link] [preprint]
+- Pleyer, Michael & Stefan Hartmann (2020): Construction Grammar for monkeys? Animal communication and its implications for language evolution in the light of usage-based linguistic theory. Evolutionary Linguistic Theory. [<a href="https://benjamins.com/catalog/elt.00021.ple">link</a>] [<a href="https://psyarxiv.com/fb2xp/">preprint</a>]
 
-- Wacewicz, Sławomir, Przemysław Żywiczyński, Stefan Hartmann, Michael Pleyer & Antonio Benítez-Burraco (2020): Language in language evolution research. Towards a pluralistic view. Biolinguistics. [link]
+- Wacewicz, Sławomir, Przemysław Żywiczyński, Stefan Hartmann, Michael Pleyer & Antonio Benítez-Burraco (2020): Language in language evolution research. Towards a pluralistic view. Biolinguistics. [<a href="https://biolinguistics.eu/index.php/biolinguistics/article/view/739?fbclid=IwAR1X3zlp-ju49zeQ1GBKUSRr_E-fZuu790Ufp1Sj2haoADGiVGuCercVdKs">link</a>]
 
-- Pleyer, Michael & Stefan Hartmann (2019): Constructing a consensus on language evolution? Convergences and differences between biolinguistic and usage-based approaches. Frontiers in Psychology: Language Sciences. [link] [preprint]
+- Pleyer, Michael & Stefan Hartmann (2019): Constructing a consensus on language evolution? Convergences and differences between biolinguistic and usage-based approaches. Frontiers in Psychology: Language Sciences. [<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02537/abstract">link</a>] 
 
-- Hartmann, Stefan (2019): Compound worlds and metaphor landscapes: Affixoids, allostructions, and higher-order generalizations. Word Structure. [link] [preprint] [data & preprint on osf]
+- Hartmann, Stefan (2019): Compound worlds and metaphor landscapes: Affixoids, allostructions, and higher-order generalizations. Word Structure. [<a href="https://www.euppublishing.com/doi/abs/10.3366/word.2019.0151">link</a>] [<a href="https://psyarxiv.com/598qs">preprint</a>] [<a href="https://osf.io/d4umx/">data & preprint on osf</a>]
 
-- Endesfelder Quick, Antje, Stefan Hartmann, Ad Backus & Elena Lieven (2019): Entrenchment and productivity. The role of input in the code-mixing of a German-English bilingual child. Applied Linguistics Review. doi 10.1515/applirev-2019-0027. [link]
+- Endesfelder Quick, Antje, Stefan Hartmann, Ad Backus & Elena Lieven (2019): Entrenchment and productivity. The role of input in the code-mixing of a German-English bilingual child. Applied Linguistics Review. doi 10.1515/applirev-2019-0027. [<a href="https://doi.org/1515/applirev-2019-0027">link</a>]
 
-- Hartmann, Stefan (2018): Up and down the substantivization cline: Response to Bekaert & Enghels. Language Sciences. doi 10.1016/j.langsci.2018.07.007[preprint] [link]
+- Hartmann, Stefan (2018): Up and down the substantivization cline: Response to Bekaert & Enghels. Language Sciences. doi 10.1016/j.langsci.2018.07.007[<a href="https://stefanhartmanneu.files.wordpress.com/2018/08/hartmann_2018_categorial_shift.pdf">preprint</a>] [<a href="https://doi.org/10.1016/j.langsci.2018.07.007">link</a>]
 
-- Hartmann, Stefan (2018): Derivational morphology in flux. A case study on word-formation change in German. Cognitive Linguistics. [pdf] [link] [dataset & scripts]
+- Hartmann, Stefan (2018): Derivational morphology in flux. A case study on word-formation change in German. Cognitive Linguistics. [<a href="https://stefanhartmanneu.files.wordpress.com/2019/02/hartmann-2018-derivational-morphology-in-flux.pdf">pdf</a>] [<a href="https://www.degruyter.com/view/j/cogl.2018.29.issue-1/cog-2016-0146/cog-2016-0146.xml">link</a>] [<a href="https://github.com/hartmast/ung_DTA">dataset & scripts</a>]
 
-- Pleyer, Michael, Stefan Hartmann, James Winters & Jordan Zlatev (2017): Interaction and iconicity in the evolution of language. Introduction to the special issue. Interaction Studies. [preprint] [link]
+- Pleyer, Michael, Stefan Hartmann, James Winters & Jordan Zlatev (2017): Interaction and iconicity in the evolution of language. Introduction to the special issue. Interaction Studies. [<a href="https://stefanhartmanneu.files.wordpress.com/2018/01/interactionstudies-siintroduction.pdf">preprint</a>] [<a href="https://benjamins.com/#catalog/journals/is.18.3.01ple/details">link</a>]
 
-- Tinits, Peeter, Jonas Nölle & Stefan Hartmann (2017): Usage context influences the evolution of overspecification in Iterated Learning. Journal of Language Evolution 2(2), 148-159. doi 10.1093/jole/lzx011 [link] [dataset & scripts]
+- Tinits, Peeter, Jonas Nölle & Stefan Hartmann (2017): Usage context influences the evolution of overspecification in Iterated Learning. Journal of Language Evolution 2(2), 148-159. doi 10.1093/jole/lzx011 [<a href="https://academic.oup.com/jole/article/2/2/148/3833989/Usage-context-influences-the-evolution-of">link</a>] [<a href="https://academic.oup.com/jole/article/2/2/148/3833989#93898684">dataset & scripts</a>]
 
-- Barteld, Fabian, Stefan Hartmann & Renata Szczepaniak (2016): The usage and spread of sentence-internal capitalization in Early New High German. A multifactorial approach. Folia Linguistica 50(2), 385-412. [pdf] [link] [datasets & scrips on TroLLing]
+- Barteld, Fabian, Stefan Hartmann & Renata Szczepaniak (2016): The usage and spread of sentence-internal capitalization in Early New High German. A multifactorial approach. Folia Linguistica 50(2), 385-412. [<a href="https://stefanhartmanneu.files.wordpress.com/2017/05/barteld-et-al-2016.pdf">pdf</a>] [<a href="https://www.degruyter.com/view/j/flin.2016.50.issue-2/flin-2016-0015/flin-2016-0015.xml?format=INT">link</a>] [<a href="https://opendata.uit.no/dataset.xhtml?persistentId=doi:10.18710/SJ4OQE">datasets & scrips on TroLLing</a>]
 
-- Fonteyn, Lauren & Stefan Hartmann (2016): Usage-based perspectives on diachronic morphology: A mixed-methods approach towards English ing-nominals. Linguistics Vanguard. [pdf] [link]
+- Fonteyn, Lauren & Stefan Hartmann (2016): Usage-based perspectives on diachronic morphology: A mixed-methods approach towards English ing-nominals. Linguistics Vanguard. [<a href="https://stefanhartmanneu.files.wordpress.com/2017/05/fonteyn-hartmann-2016-usage-based-perspectives.pdf">pdf</a>] [<a href="http://www.degruyter.com/view/j/lingvan.ahead-of-print/lingvan-2016-0057/lingvan-2016-0057.xml?format=INT">link</a>]
 
-- Hartmann, Stefan (2014): What drives morphological change? A case study from the history of German. Linguisticae Investigationes 37.2, Special Issue “Morphology and its Interfaces”. [pdf] [link]
+- Hartmann, Stefan (2014): What drives morphological change? A case study from the history of German. Linguisticae Investigationes 37.2, Special Issue “Morphology and its Interfaces”. [<a href="https://stefanhartmanneu.files.wordpress.com/2015/05/what_drives_morphological_change_fin.pdf">pdf</a>] [<a href="https://benjamins.com/#catalog/journals/li.37.2.06har/details">link</a>]
 
-- Hartmann, Stefan (2014): “Nominalization” Taken Literally. A Diachronic Corpus Study of German Word-Formation Patterns. Italian Journal of Linguistics 26, Special Issue “New Territories in Word-Formation”, 123-156. [open access]
+- Hartmann, Stefan (2014): “Nominalization” Taken Literally. A Diachronic Corpus Study of German Word-Formation Patterns. Italian Journal of Linguistics 26, Special Issue “New Territories in Word-Formation”, 123-156. [<a href="http://www.italian-journal-linguistics.com/wp-content/uploads/06_Hartmann.pdf">open access</a>]
 
-- Hartmann, Stefan (2013): Zwischen Transparenz und Lexikalisierung: Das Wortbildungsmuster X-ung(e) im Mittelhochdeutschen. In: Beiträge zur Geschichte der deutschen Sprache und Literatur 135 (2), 159-183. [pdf] [link] [dataset]
+- Hartmann, Stefan (2013): Zwischen Transparenz und Lexikalisierung: Das Wortbildungsmuster X-ung(e) im Mittelhochdeutschen. In: Beiträge zur Geschichte der deutschen Sprache und Literatur 135 (2), 159-183. [<a href="https://stefanhartmanneu.files.wordpress.com/2014/06/hartmann2013pbb.pdf">pdf</a>] [<a href="http://www.degruyter.com/view/j/bgsl.2013.135.issue-2/pbb-2013-0072/pbb-2013-0072.xml?format=INT">link</a>] [<a href="http://pfriemelpfuhl.bplaced.net/mhd_ung.csv">dataset</a>]
 
 - Hartmann, Stefan (2013): Das Wortbilden und die Wortbildung. Was grammatikalischer Wandel über Sprache und Kognition verrät. In: Nouveaux Cahiers d’Allemand 31 (2), 163-175.
 
@@ -86,9 +86,9 @@ Editorial work
 
 - Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Hexenverhörprotokolle als sprachhistorisches Korpus. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik).
 
-- Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) (2019): Categorial shift – From description to theory and back again. Special issue of Language Sciences. [link]
+- Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) (2019): Categorial shift – From description to theory and back again. Special issue of Language Sciences. 
 
-- Hartmann, Stefan, Michael Pleyer, James Winters & Jordan Zlatev (eds.) (2017): Interaction and iconicity in the evolution of language. Special issue of Interaction Studies. [link]
+- Hartmann, Stefan, Michael Pleyer, James Winters & Jordan Zlatev (eds.) (2017): Interaction and iconicity in the evolution of language. Special issue of Interaction Studies. 
 
 - Hartmann, Stefan (ed.) (2017): Yearbook of the German Cognitive Linguistics Association 2016. Berlin, New York: De Gruyter. [[link](https://www.degruyter.com/view/j/gcla.2017.5.issue-1/issue-files/gcla.2017.5.issue-1.xml)]
 

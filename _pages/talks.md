@@ -35,7 +35,7 @@ Peer-reviewed conference talks
 
 - Hartmann, Stefan, Jakob Neels & Tobias Ungerer: A quantum of salience. Reconsi-dering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea, Bucharest, August, 2022.
 
-_ Schnee, Lena & Stefan Hartmann: Disentangling the constructional semantics of German future constructions. 25th International Conference on Historical Linguistics (ICHL25), Oxford, August 2022.
+- Schnee, Lena & Stefan Hartmann: Disentangling the constructional semantics of German future constructions. 25th International Conference on Historical Linguistics (ICHL25), Oxford, August 2022.
 
 - Hartmann, Stefan & Tobias Ungerer: Are snowclones the new normal? A corpus-based analysis of extravagant formulaic patterns. ICAME43, Anglia Ruskin University, Cambridge, July, 2022.
 
