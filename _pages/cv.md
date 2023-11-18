@@ -9,51 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since March 2020: Associate professor (Juniorprofessor), University of Düsseldorf
+* 2024: Visiting professor, University of Turin
+* 2021: Visiting fellow, Center for Advanced Studies, LMU Munich
+* 2017-2020: Research Assisant, University of Bamberg
+* 2016-2017: Research Assistant, University of Hamburg
+* 2014-2016: Research Assistant, University of Mainz
+* 2010-2015: PhD in Historical Linguistics, University of Mainz, Germany (PhD scholarship, Friedrich Ebert Foundation)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Professional service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Board member of the International Cognitive Linguistics Association
+- Board member of the German Cognitive Linguistics association
+- Board member of the Association for German Language History (Gesellschaft für Germanistische Sprachgeschichte)
+- Editor-in-chief of [Constructions](https://constructions.journals.hhu.de/index)
+- Editor-in-chief of the [Yearbook of the German Cognitive Linguistics Association](https://www.degruyter.com/journal/key/gcla/html) (De Gruyter)
+- General editor of [Language and Cognition](https://www.cambridge.org/core/journals/language-and-cognition) (Cambridge University Press)
+- Member of the editorial board of the book series [Advances in Historical Linguistics](https://langsci-press.org/catalog/series/ahl) (Language Science Press)
+
+
+
