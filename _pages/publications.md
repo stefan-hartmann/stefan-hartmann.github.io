@@ -7,6 +7,8 @@ author_profile: true
 
 Monographs
 ======
+- Pleyer, Michael & Stefan Hartmann (forthc.): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press.
+
 - Ungerer, Tobias & Stefan Hartmann (2023): Constructionist approaches. Past, present, future. Cambridge: Cambridge University Press. [open access]
 
 - Hartmann, Stefan (2018): Deutsche Sprachgeschichte. Grundzüge und Methoden. Tübingen: Narr. [link] [Supplementary material] [Errata]
@@ -80,11 +82,11 @@ Editorial work
 
 - Hartmann, Stefan, Jonas Nölle & Peeter Tinits (eds.) (in prep.): New directions in language evolution research. Special issue of Language Dynamics and Change.
 
-Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Historische Korpuslinguistik. (Jahrbuch für Germanistische Sprachgeschichte 10). Berlin, Boston: De Gruyter.
+- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Historische Korpuslinguistik. (Jahrbuch für Germanistische Sprachgeschichte 10). Berlin, Boston: De Gruyter.
 
-Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Hexenverhörprotokolle als sprachhistorisches Korpus. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik).
+- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Hexenverhörprotokolle als sprachhistorisches Korpus. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik).
 
-Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) (2019): Categorial shift – From description to theory and back again. Special issue of Language Sciences. [link]
+- Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) (2019): Categorial shift – From description to theory and back again. Special issue of Language Sciences. [link]
 
 - Hartmann, Stefan, Michael Pleyer, James Winters & Jordan Zlatev (eds.) (2017): Interaction and iconicity in the evolution of language. Special issue of Interaction Studies. [link]
 
