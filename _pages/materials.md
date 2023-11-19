@@ -25,12 +25,11 @@ Empirical linguistics
 
 
 
-
 Teaching
 ======
 
 I teach a wide variety of topics, from introductory courses to linguistics to more advanced specialized topics as well as workshops on corpus linguistics and statistics. Below are a few collections of materials from my teaching (in German).
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- <a href="https://empirical-linguistics.github.io/hist-korpling/">Historische Korpuslinguistik</a>
+
+- <a href="https://empirical-linguistics.github.io/sup/">Semantik und Pragmatik</a>
