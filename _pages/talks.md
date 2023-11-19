@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-
+<br />
 
 Invited talks
 ======
@@ -22,7 +22,29 @@ Peer-reviewed conference talks
 
 <strong>2023</strong>
 
-- Nikolas Koch, Stefan Hartmann & Antje Endesfelder Quick: Muster im (mehrsprachigen) Spracherwerb – eine gebrauchsbasierte Perspektive. ISAR Frühling 2023, LMU Munich
+- Hartmann, Stefan, Nikolas Koch, Claudia Maria Riehl & Antje Endesfelder Quick: sieht man schon die Leuten an, wer Deutsch spricht. Dative loss in Blumenau German. German Abroad 5, Eichstätt/München 2023.
+
+- Pleyer, Michael, Jakob Neels & Stefan Hartmann: The contribution of entrenchment, conventionalisation and usage to language evolution. 8th International Conference “Ways to Protolanguage” (Protolang), Rome, 2023.
+
+- Pleyer, Michael, Jakob Neels & Stefan Hartmann: The Interaction of the Cognitive and Community Level in Language Evolution: A Usage-Based Perspective. 26th Interna-tional Conference on Historical Linguistics (ICHL), Heidelberg, August, 2023.
+
+- Hetjens, Dominik & Stefan Hartmann: Will Carla apply for this job, or just Carl? – What user interactions with job listings reveal about the effects of gender-sensitive language on male and female representations. Concepts in Action: Representation, Learning, and Applications (CARLA), Concordia University Montreal, July, 2023.
+
+- Quick, Antje Endesfelder, Nikolas Koch & Stefan Hartmann: A Dynamic Network Approach to bilingual child data. 16th International Cognitive Linguistics Conference (ICLC), Düsseldorf, July, 2023.
+
+- Ungerer, Tobias & Stefan Hartmann: What is a “taxonomic network”? On the relationship between hierarchies and networks. 16th International Cognitive Linguistics Con-ference (ICLC), Düsseldorf, July, 2023.
+
+- Mikkelsen, Olaf & Stefan Hartmann: Future alternations in English and Norwegian: A contrastive corpus study. 10th International Contrastive Linguistics Conference, Mannheim, June, 2023.
+
+- Hartmann, Stefan: Graphemic constructions. 12th International Conference on Construction Grammar, Prague, May, 2023.
+
+- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann: Detecting chunks in child bilingual code-mixing – the role of input. 12th International Conference on Construction Grammar, Prague, May, 2023.
+
+- Hartmann, Stefan, Nikolas Koch, Antje Endesfelder Quick & Claudia Maria Riehl: Language attrition in a contact variety of German. A case study on German in Blumenau (Brazil). Annual Conference of the Estonian Association of Applied Linguistics, Tallinn, April 2023.
+
+- Hartmann, Stefan & Tobias Ungerer: “Chaos theory, shmaos theory”: Creativity and routine in English shm-reduplication. Workshop „Dynamics at the lexicon-syntax inter-face“, 45. Jahrestagung der Deutschen Gesellschaft für Sprachwissenschaft (DGfS), Köln, März 2023.
+
+- Nikolas Koch, Stefan Hartmann & Antje Endesfelder Quick: Muster im (mehrsprachigen) Spracherwerb – eine gebrauchsbasierte Perspektive. ISAR Frühling 2023, LMU Munich.
 
 
 <strong>2022</strong>

@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br />
+
 Monographs
 ======
 - Pleyer, Michael & Stefan Hartmann (forthc.): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press.
