@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+\b
+
 Work experience
 ======
 * since March 2020: Associate professor (Juniorprofessor), University of Düsseldorf

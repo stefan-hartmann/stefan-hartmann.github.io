@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited talks
-======
+
+## Invited talks
 
 - 2024: Linguistic productivity is not what you think it is. Or is it? Workshop "Unraveling Linguistic Productivity:  Insights into usage, processing, and variability.", Ghent, May, 2024.
 
@@ -15,8 +15,7 @@ Invited talks
 - 2016: Derivationsmorphologischer Wandel aus gebrauchsbasierter Perspektive: Theoretische Zugänge und empirische Methoden. Workshop “Historische Wortbildung: Theorie – Methoden – Perspektiven”, Münster, Germany, November, 2016.
 
 
-Peer-reviewed conference talks
-======
+## Peer-reviewed conference talks
 
 <strong>2023</strong>
 
@@ -53,8 +52,6 @@ Peer-reviewed conference talks
 
 
 <strong>2020</strong>
-
-
 
 - Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann (2020): Netzwerk im Aufbau: Die Traceback-Methode und das frühe Konstruktikon. Workshop “Konstruktionsgrammatik Germanischer Sprachen”, Dresden.
 
@@ -278,8 +275,7 @@ Poster Presentations
 - Hartmann, Stefan & Michael Pleyer: Word-formation as a Window to Cognition: Construal, Conceptualization, and Patterns of Use. Manchester and Salford New Researchers Forum in Linguistics, Manchester, UK, November, 2012. (View on academia.edu)
 
 
-Other Talks
-========
+## Other Talks
 
 <strong>Student Conference Talks</strong>
 
