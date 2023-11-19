@@ -12,10 +12,10 @@ Impressum
 
 Verantwortlich für diese Seiten:
 
-Stefan Hartmann
-Heinrich-Heine-Universität Düsseldorf
-Universitätsstraße 1
-40225 Düsseldorf
+Stefan Hartmann \
+Heinrich-Heine-Universität Düsseldorf \
+Universitätsstraße 1 \
+40225 Düsseldorf \
 E-Mail: hartmast [at] hhu [dot] de
 
 
