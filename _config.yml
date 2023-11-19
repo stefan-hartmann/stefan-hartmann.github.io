@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+mastodon:
+  username               : "fediscience.org/@stefanhartmann"
 facebook:
   username               :
   app_id                 :
@@ -111,6 +113,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "@hartmast"
+  mastodon         : "fediscience.org/@stefanhartmann"
   vine             :
   weibo            :
   xing             :

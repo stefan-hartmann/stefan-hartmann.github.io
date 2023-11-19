@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Impressum
-=====
-
 Verantwortlich für diese Seiten:
 
 Stefan Hartmann \
