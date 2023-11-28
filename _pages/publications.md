@@ -80,13 +80,15 @@ Journal papers
 Editorial work
 ======
 
+- Schnee, Lena & Stefan Hartmann (eds.) (in prep.): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press.
+
 - Hartmann, Stefan, Evelina Daniela Rodrigues, Michael Pleyer, Natlie Uomini & Nathalie Gontier (eds.) (in prep.): Comparative perspectives on multimodality and compositionality. Special issue of International Journal of Primatology.
 
-- Hartmann, Stefan, Jonas Nölle & Peeter Tinits (eds.) (in prep.): New directions in language evolution research. Special issue of Language Dynamics and Change.
+- Hartmann, Stefan, Jonas Nölle & Peeter Tinits (eds.) (2020): New directions in language evolution research. Special issue of Language Dynamics and Change. [<a href="https://brill.com/view/journals/ldc/10/1/ldc.10.issue-1.xml">Part 1</a>] [<a href="https://brill.com/view/journals/ldc/10/2/ldc.10.issue-2.xml">Part 2</a>]
 
-- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Historische Korpuslinguistik. (Jahrbuch für Germanistische Sprachgeschichte 10). Berlin, Boston: De Gruyter.
+- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (2019): Historische Korpuslinguistik. (Jahrbuch für Germanistische Sprachgeschichte 10). Berlin, Boston: De Gruyter. [<a href="https://www.degruyter.com/journal/key/jbgsg/10/1/html">link</a>]
 
-- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (in prep.): Hexenverhörprotokolle als sprachhistorisches Korpus. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik).
+- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (2020): Hexenverhörprotokolle als sprachhistorisches Korpus. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik). [<a href="https://doi.org/10.1515/9783110679649">link</a>]
 
 - Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) (2019): Categorial shift – From description to theory and back again. Special issue of Language Sciences. 
 
