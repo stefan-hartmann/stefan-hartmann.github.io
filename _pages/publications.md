@@ -19,9 +19,9 @@ Monographs
 
 Journal papers
 ======
-- Berg, Kristian, Stefan Hartmann & Daniel Claeser (2023): Are some morphological units more prone to spelling variation than others? A case study using spontaneous handwritten data. Morphology. [link](https://dx.doi.org/10.1007/s11525-023-09417-4)
+- Berg, Kristian, Stefan Hartmann & Daniel Claeser (2023): Are some morphological units more prone to spelling variation than others? A case study using spontaneous handwritten data. Morphology. [[link](https://dx.doi.org/10.1007/s11525-023-09417-4)]
 
-- Hartmann, Stefan (2023): Komplexe Wörter zwischen Konstrukt und Konstruktion. Neuere gebrauchsbasierte Ansätze und ihre Implikationen für die Wortbildung. Zeitschrift für Wortbildung. [link](https://doi.org/10.21248/zwjw.2023.2.102)
+- Hartmann, Stefan (2023): Komplexe Wörter zwischen Konstrukt und Konstruktion. Neuere gebrauchsbasierte Ansätze und ihre Implikationen für die Wortbildung. Zeitschrift für Wortbildung. [[link](https://doi.org/10.21248/zwjw.2023.2.102)]
 
 - Hartmann, Stefan & Tobias Ungerer (2023): Attack of the snowclones. A corpus-based analysis of extravagant formulaic patterns. Journal of Linguistics. [<a href="https://doi.org/10.1017/9781009308717">open access</a>]
 
