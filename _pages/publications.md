@@ -19,6 +19,8 @@ Monographs
 
 Journal papers
 ======
+- Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (accepted): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). Interaction Studies.
+
 - Berg, Kristian, Stefan Hartmann & Daniel Claeser (2023): Are some morphological units more prone to spelling variation than others? A case study using spontaneous handwritten data. Morphology. [[link](https://dx.doi.org/10.1007/s11525-023-09417-4)]
 
 - Hartmann, Stefan (2023): Komplexe Wörter zwischen Konstrukt und Konstruktion. Neuere gebrauchsbasierte Ansätze und ihre Implikationen für die Wortbildung. Zeitschrift für Wortbildung. [[link](https://doi.org/10.21248/zwjw.2023.2.102)]
@@ -98,6 +100,9 @@ Editorial work
 
 Papers in edited volumes
 ======
+- Pleyer, Michael & Stefan Hartmann (forthc.). A usage-based perspective on evolutionary pragmatics. In: Ines Adornetti & Francesco Ferretti (eds.), Introducing Evolutionary Pragmatics: How Language Emerges from Use. London: Routledge.
+
+- Hartmann, Stefan. (forthc.). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955.
 
 - Mikkelsen, Olaf & Stefan Hartmann. 2022. Competing future constructions and the complexity principle: A contrastive outlook. In Susanne Flach & Martin Hilpert (eds.), Broadening the spectrum of corpus linguistics: new approaches to variability and change (Studies in Corpus Linguistics volume 105), 9–40. Amsterdam ; Philadelphia: John Benjamins Publishing Company.
 
