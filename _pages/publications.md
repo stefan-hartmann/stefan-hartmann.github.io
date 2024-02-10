@@ -9,7 +9,7 @@ author_profile: true
 
 Monographs
 ======
-- Pleyer, Michael & Stefan Hartmann (forthc.): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press.
+- Pleyer, Michael & Stefan Hartmann (forthc.): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press. [<a href="https://www.cambridge.org/core/elements/cognitive-linguistics-and-language-evolution/842A7917E9BC829C29A086CA41C6E9C6">open access</a>]
 
 - Ungerer, Tobias & Stefan Hartmann (2023): Constructionist approaches. Past, present, future. Cambridge: Cambridge University Press. [<a href="https://doi.org/10.1017/9781009308717">open access</a>]
 
@@ -82,6 +82,8 @@ Journal papers
 Editorial work
 ======
 
+- Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (in prep.): Handbook of Germanic Writing Systems. Berlin, Boston: De Gruyter.
+
 - Schnee, Lena & Stefan Hartmann (eds.) (in prep.): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press.
 
 - Hartmann, Stefan, Evelina Daniela Rodrigues, Michael Pleyer, Natlie Uomini & Nathalie Gontier (eds.) (in prep.): Comparative perspectives on multimodality and compositionality. Special issue of International Journal of Primatology.
@@ -98,11 +100,19 @@ Editorial work
 
 - Hartmann, Stefan (ed.) (2017): Yearbook of the German Cognitive Linguistics Association 2016. Berlin, New York: De Gruyter. [[link](https://www.degruyter.com/view/j/gcla.2017.5.issue-1/issue-files/gcla.2017.5.issue-1.xml)]
 
+Handbook chapters
+======
+
+- Hartmann, Stefan & Michael Pleyer (forthc.). Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution. Oxford: Oxford University Press.
+
+- Hartmann, Stefan. (forthc.). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955.
+
+- Hartmann, Stefan & Renata Szczepaniak. 2023. Elements of writing systems. In Marco Condorelli & Hanna Rutkowska (eds.), Cambridge Handbook of Historical Orthography, 50–73. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108766463.003.
+
+
 Papers in edited volumes
 ======
 - Pleyer, Michael & Stefan Hartmann (forthc.). A usage-based perspective on evolutionary pragmatics. In: Ines Adornetti & Francesco Ferretti (eds.), Introducing Evolutionary Pragmatics: How Language Emerges from Use. London: Routledge.
-
-- Hartmann, Stefan. (forthc.). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955.
 
 - Mikkelsen, Olaf & Stefan Hartmann. 2022. Competing future constructions and the complexity principle: A contrastive outlook. In Susanne Flach & Martin Hilpert (eds.), Broadening the spectrum of corpus linguistics: new approaches to variability and change (Studies in Corpus Linguistics volume 105), 9–40. Amsterdam ; Philadelphia: John Benjamins Publishing Company.
 
