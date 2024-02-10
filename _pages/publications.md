@@ -100,6 +100,7 @@ Editorial work
 
 - Hartmann, Stefan (ed.) (2017): Yearbook of the German Cognitive Linguistics Association 2016. Berlin, New York: De Gruyter. [[link](https://www.degruyter.com/view/j/gcla.2017.5.issue-1/issue-files/gcla.2017.5.issue-1.xml)]
 
+
 Handbook chapters
 ======
 
