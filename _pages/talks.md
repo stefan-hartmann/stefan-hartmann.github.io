@@ -10,7 +10,7 @@ author_profile: true
 Invited talks
 ======
 
-- 2024: Linguistic productivity is not what you think it is. Or is it? Workshop "Unraveling Linguistic Productivity:  Insights into usage, processing, and variability.", Ghent, May, 2024.
+- 2024: Productivity as a mosaic: Disentangling dimensions of productivity in theory and practice. Workshop "Unraveling Linguistic Productivity:  Insights into usage, processing, and variability.", Ghent, May, 2024.
 
 - 2018: Sprachgeschichtsforschung fürs 21. Jahrhundert: Open science, open data, offene Fragen. Workshop “Althochdeutsch online”, University of Bamberg, October, 2018.
 
