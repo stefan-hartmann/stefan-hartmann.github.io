@@ -19,6 +19,10 @@ Monographs
 
 Journal papers
 ======
+- Hartmann, Stefan & Olaf Mikkelsen (minor revisions): Future constructions in English and Norwegian. A contrastive corpus study. Journal of Germanic Linguistics.
+
+- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (minor revisions): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language.
+
 - Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (accepted): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). Interaction Studies.
 
 - Berg, Kristian, Stefan Hartmann & Daniel Claeser (2023): Are some morphological units more prone to spelling variation than others? A case study using spontaneous handwritten data. Morphology. [[link](https://dx.doi.org/10.1007/s11525-023-09417-4)]
