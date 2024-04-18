@@ -9,7 +9,7 @@ author_profile: true
 
 Monographs
 ======
-- Pleyer, Michael & Stefan Hartmann (forthc.): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press. [<a href="https://www.cambridge.org/core/elements/cognitive-linguistics-and-language-evolution/842A7917E9BC829C29A086CA41C6E9C6">open access</a>]
+- Pleyer, Michael & Stefan Hartmann (2024): Cognitive Linguistics and Language Evolution. Cambridge: Cambridge University Press. [<a href="https://www.cambridge.org/core/elements/cognitive-linguistics-and-language-evolution/842A7917E9BC829C29A086CA41C6E9C6">open access</a>]
 
 - Ungerer, Tobias & Stefan Hartmann (2023): Constructionist approaches. Past, present, future. Cambridge: Cambridge University Press. [<a href="https://doi.org/10.1017/9781009308717">open access</a>]
 
@@ -108,11 +108,11 @@ Editorial work
 Handbook chapters
 ======
 
-- Hartmann, Stefan & Michael Pleyer (forthc.). Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution. Oxford: Oxford University Press.
+- Hartmann, Stefan & Michael Pleyer (forthc.). Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution. Oxford: Oxford University Press. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
-- Hartmann, Stefan. (forthc.). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955.
+- Hartmann, Stefan. (2024). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955. [[link](https://oxfordre.com/linguistics/display/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-955)] [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
-- Hartmann, Stefan & Renata Szczepaniak. 2023. Elements of writing systems. In Marco Condorelli & Hanna Rutkowska (eds.), Cambridge Handbook of Historical Orthography, 50–73. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108766463.003.
+- Hartmann, Stefan & Renata Szczepaniak. (2023). Elements of writing systems. In Marco Condorelli & Hanna Rutkowska (eds.), Cambridge Handbook of Historical Orthography, 50–73. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108766463.003.
 
 
 Papers in edited volumes
