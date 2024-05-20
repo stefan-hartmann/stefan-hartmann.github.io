@@ -19,7 +19,9 @@ Monographs
 
 Journal papers
 ======
-- Hartmann, Stefan & Olaf Mikkelsen (minor revisions): Future constructions in English and Norwegian. A contrastive corpus study. Journal of Germanic Linguistics.
+- Hetjens, Dominik & Stefan Hartmann (minor revisions): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. PLoS One.
+
+- Hartmann, Stefan & Olaf Mikkelsen (minor revisions): Future constructions in English and Norwegian. A contrastive corpus study. Languages in Contrast.
 
 - Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (minor revisions): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language.
 
