@@ -13,7 +13,8 @@ redirect_from:
 
 Work experience
 ======
-* since March 2020: Associate professor (Juniorprofessor), University of Düsseldorf
+* since 2024: Full professor, Heinrich Heine University Düsseldorf
+* 2020-2024: Associate professor (Juniorprofessor), Heinrich Heine University Düsseldorf
 * Spring 2024: Visiting professor, University of Turin
 * 2021: Visiting fellow, Center for Advanced Studies, LMU Munich
 * 2017-2020: Research Assisant, University of Bamberg

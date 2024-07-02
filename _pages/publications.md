@@ -21,11 +21,11 @@ Journal papers
 ======
 - Hetjens, Dominik & Stefan Hartmann (minor revisions): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. PLoS One.
 
-- Hartmann, Stefan & Olaf Mikkelsen (minor revisions): Future constructions in English and Norwegian. A contrastive corpus study. Languages in Contrast.
+- Hartmann, Stefan & Olaf Mikkelsen (accepted): Future constructions in English and Norwegian. A contrastive corpus study. Languages in Contrast.
 
-- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (minor revisions): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language.
+- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (accepted): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language.
 
-- Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (accepted): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). Interaction Studies.
+- Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (2024): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). Interaction Studies.
 
 - Berg, Kristian, Stefan Hartmann & Daniel Claeser (2023): Are some morphological units more prone to spelling variation than others? A case study using spontaneous handwritten data. Morphology. [[link](https://dx.doi.org/10.1007/s11525-023-09417-4)]
 
