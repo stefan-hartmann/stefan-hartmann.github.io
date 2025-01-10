@@ -19,11 +19,14 @@ Monographs
 
 Journal papers
 ======
-- Hetjens, Dominik & Stefan Hartmann (minor revisions): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. PLoS One.
 
-- Hartmann, Stefan & Olaf Mikkelsen (accepted): Future constructions in English and Norwegian. A contrastive corpus study. Languages in Contrast.
+- Neumair, Phillip A., Fiona M. Gehrecke, Stefan Hartmann & Alexander Ziem. (2025): A frame-semantic approach to conceptual metaphors in the domain of emotion. Language and Cognition. [[open access](https://doi.org/10.1017/langcog.2024.37)].
 
-- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (accepted): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language.
+- Hetjens, Dominik & Stefan Hartmann (2024): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. PLoS One. [[open access](https://doi.org/10.1371/journal.pone.0308072)]
+
+- Hartmann, Stefan & Olaf Mikkelsen (2024): Future constructions in English and Norwegian. A contrastive corpus study. Languages in Contrast. [[link](https://dx.doi.org/10.1075/lic.00043.mik)]
+
+- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (2024): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language. [[open access](https://doi.org/10.1017/S0305000924000473)]
 
 - Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (2024): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). Interaction Studies.
 
