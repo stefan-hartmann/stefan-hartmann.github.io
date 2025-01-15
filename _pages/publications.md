@@ -20,15 +20,15 @@ Monographs
 Journal papers
 ======
 
-- Neumair, Phillip A., Fiona M. Gehrecke, Stefan Hartmann & Alexander Ziem. (2025): A frame-semantic approach to conceptual metaphors in the domain of emotion. Language and Cognition. [[open access](https://doi.org/10.1017/langcog.2024.37)].
+- Neumair, Phillip A., Fiona M. Gehrecke, Stefan Hartmann & Alexander Ziem. (2025): A frame-semantic approach to conceptual metaphors in the domain of emotion. <i>Language and Cognition</i>, special issue "Emotions & Corpora", ed. by Małgorzata Fabiszak & Dylan Glynn. [[open access](https://doi.org/10.1017/langcog.2024.37)].
 
-- Hetjens, Dominik & Stefan Hartmann (2024): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. PLoS One. [[open access](https://doi.org/10.1371/journal.pone.0308072)]
+- Hetjens, Dominik & Stefan Hartmann (2024): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. <i>PLoS One</i>. [[open access](https://doi.org/10.1371/journal.pone.0308072)]
 
-- Hartmann, Stefan & Olaf Mikkelsen (2024): Future constructions in English and Norwegian. A contrastive corpus study. Languages in Contrast. [[link](https://dx.doi.org/10.1075/lic.00043.mik)]
+- Hartmann, Stefan & Olaf Mikkelsen (2024): Future constructions in English and Norwegian. A contrastive corpus study. <i>Languages in Contrast</i>. [[link](https://dx.doi.org/10.1075/lic.00043.mik)]
 
-- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (2024): Frequency, redundancy and context in bilingual acquisition. Journal of Child Language. [[open access](https://doi.org/10.1017/S0305000924000473)]
+- Ibbotson, Paul, Antje Endesfelder Quick, Stefan Hartmann & Nikolas Koch (2024): Frequency, redundancy and context in bilingual acquisition. <i>Journal of Child Language</i>. [[open access](https://doi.org/10.1017/S0305000924000473)]
 
-- Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (2024): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). Interaction Studies.
+- Hartmann, Stefan, Sławomir Wacewicz, Andrea Ravignani, Daria Valente, Evelina Daniela Rodrigues, Rie Asano, Yannick Jadoul (2024): Delineating the field of language evolution research: A quantitative analysis of peer-review patterns at the Joint Conference on Language Evolution (JCoLE 2022). <i>Interaction Studies</i>. doi 10.1075/is.00024.har [[pdf](https://pure.mpg.de/rest/items/item_3595168_2/component/file_3595169/content)]
 
 - Berg, Kristian, Stefan Hartmann & Daniel Claeser (2023): Are some morphological units more prone to spelling variation than others? A case study using spontaneous handwritten data. Morphology. [[link](https://dx.doi.org/10.1007/s11525-023-09417-4)]
 
