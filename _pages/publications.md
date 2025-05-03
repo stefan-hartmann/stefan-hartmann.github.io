@@ -19,6 +19,7 @@ Monographs
 
 Journal papers
 ======
+- Ungerer, Tobias & Stefan Hartmann. 2024. Contrastive is the new black: A cross-linguistic study of a ‘snowclone’ in English, German, and Spanish. Quaderns de Filologia XXIX. 217–235.
 
 - Neumair, Phillip A., Fiona M. Gehrecke, Stefan Hartmann & Alexander Ziem. (2025): A frame-semantic approach to conceptual metaphors in the domain of emotion. <i>Language and Cognition</i>, special issue "Emotions & Corpora", ed. by Małgorzata Fabiszak & Dylan Glynn. [[open access](https://doi.org/10.1017/langcog.2024.37)].
 
@@ -122,7 +123,7 @@ Handbook chapters
 
 Papers in edited volumes
 ======
-- Pleyer, Michael & Stefan Hartmann (forthc.). A usage-based perspective on evolutionary pragmatics. In: Ines Adornetti & Francesco Ferretti (eds.), Introducing Evolutionary Pragmatics: How Language Emerges from Use. London: Routledge.
+- Pleyer, Michael & Stefan Hartmann. 2023. A usage-based perspective on evolutionary pragmatics. In: Ines Adornetti & Francesco Ferretti (eds.), Introducing Evolutionary Pragmatics: How Language Emerges from Use. London: Routledge.
 
 - Mikkelsen, Olaf & Stefan Hartmann. 2022. Competing future constructions and the complexity principle: A contrastive outlook. In Susanne Flach & Martin Hilpert (eds.), Broadening the spectrum of corpus linguistics: new approaches to variability and change (Studies in Corpus Linguistics volume 105), 9–40. Amsterdam ; Philadelphia: John Benjamins Publishing Company.
 
