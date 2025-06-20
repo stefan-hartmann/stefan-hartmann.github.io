@@ -19,6 +19,9 @@ Monographs
 
 Journal papers
 ======
+
+- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann. 2025. Recycling constructional patterns: The role of chunks in early bilingual acquisition. International Journal of Bilingualism 13670069251346103. https://doi.org/10.1177/13670069251346103.
+
 - Ungerer, Tobias & Stefan Hartmann. 2024. Contrastive is the new black: A cross-linguistic study of a ‘snowclone’ in English, German, and Spanish. Quaderns de Filologia XXIX. 217–235.
 
 - Neumair, Phillip A., Fiona M. Gehrecke, Stefan Hartmann & Alexander Ziem. (2025): A frame-semantic approach to conceptual metaphors in the domain of emotion. <i>Language and Cognition</i>, special issue "Emotions & Corpora", ed. by Małgorzata Fabiszak & Dylan Glynn. [[open access](https://doi.org/10.1017/langcog.2024.37)].
@@ -123,6 +126,9 @@ Handbook chapters
 
 Papers in edited volumes
 ======
+
+- Hartmann, Stefan, Nikolas Koch, Antje Endesfelder Quick & Claudia Maria Riehl. 2025. sieht man schon die leuten an, wer deutsch spricht: Eine quantitative Analyse des Dativabbaus im Blumenau-Deutschen. In Adriano Murelli (ed.), Gesprochenes Deutsch heute, 195–214. De Gruyter. https://doi.org/10.1515/9783111532868-009.
+
 - Pleyer, Michael & Stefan Hartmann. 2023. A usage-based perspective on evolutionary pragmatics. In: Ines Adornetti & Francesco Ferretti (eds.), Introducing Evolutionary Pragmatics: How Language Emerges from Use. London: Routledge.
 
 - Mikkelsen, Olaf & Stefan Hartmann. 2022. Competing future constructions and the complexity principle: A contrastive outlook. In Susanne Flach & Martin Hilpert (eds.), Broadening the spectrum of corpus linguistics: new approaches to variability and change (Studies in Corpus Linguistics volume 105), 9–40. Amsterdam ; Philadelphia: John Benjamins Publishing Company.
