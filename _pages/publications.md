@@ -20,6 +20,10 @@ Monographs
 Journal papers
 ======
 
+- Baumann, Andreas & Stefan Hartmann. accepted. The chicken and the egg: unraveling aspects of semantic change and how they relate to lexical acquisition. <i>Cognition</i>.
+
+- Benítez Burraco, Antonio, Michael Pleyer & Stefan Hartmann. accepted. The role of play in language structure, acquisition, and evolution. <i>Language and Linguistics Compass</i>.
+
 - Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann. 2025. Recycling constructional patterns: The role of chunks in early bilingual acquisition. International Journal of Bilingualism 13670069251346103. https://doi.org/10.1177/13670069251346103.
 
 - Ungerer, Tobias & Stefan Hartmann. 2024. Contrastive is the new black: A cross-linguistic study of a ‘snowclone’ in English, German, and Spanish. Quaderns de Filologia XXIX. 217–235.
@@ -95,11 +99,15 @@ Journal papers
 Editorial work
 ======
 
-- Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (in prep.): Handbook of Germanic Writing Systems. Berlin, Boston: De Gruyter.
+- Quick, Antje Endesfelder, Nikolas Koch & Stefan Hartmann (eds.). forthc. Usage-Based Approaches to Multilingualism: Language Acquisition, Language Contact, Language Attrition. Berlin, Boston: De Gruyter.
 
-- Schnee, Lena & Stefan Hartmann (eds.) (in prep.): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press.
+- Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (forthc.): Handbook of Germanic Writing Systems. Berlin, Boston: De Gruyter.
 
-- Hartmann, Stefan, Evelina Daniela Rodrigues, Michael Pleyer, Natlie Uomini & Nathalie Gontier (eds.) (in prep.): Comparative perspectives on multimodality and compositionality. Special issue of International Journal of Primatology.
+- Schnee, Lena & Stefan Hartmann (eds.) (forthc.): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press.
+
+- Schnee, Lena, Henriette Huber & Stefan Hartmann (eds.). 2025. Historische Grammatik(en). (Jahrbuch für Germanistische Sprachgeschichte 16.) Berlin, Boston: De Gruyter. [<a href="https://www.degruyterbrill.com/journal/key/jbgsg/16/1/html">link</a>]
+
+- Hartmann, Stefan, Evelina Daniela Rodrigues, Michael Pleyer, Natlie Uomini & Nathalie Gontier (eds.) (2024): Comparative perspectives on multimodality and compositionality. Special issue of <i>International Journal of Primatology</i>.
 
 - Hartmann, Stefan, Jonas Nölle & Peeter Tinits (eds.) (2020): New directions in language evolution research. Special issue of Language Dynamics and Change. [<a href="https://brill.com/view/journals/ldc/10/1/ldc.10.issue-1.xml">Part 1</a>] [<a href="https://brill.com/view/journals/ldc/10/2/ldc.10.issue-2.xml">Part 2</a>]
 
@@ -117,7 +125,7 @@ Editorial work
 Handbook chapters
 ======
 
-- Hartmann, Stefan & Michael Pleyer (forthc.). Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution. Oxford: Oxford University Press. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
+- Hartmann, Stefan & Michael Pleyer. 2025. Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution, 111–126. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780192886491.013.7. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
 - Hartmann, Stefan. (2024). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955. [[link](https://oxfordre.com/linguistics/display/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-955)] [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
@@ -127,11 +135,13 @@ Handbook chapters
 Papers in edited volumes
 ======
 
-- Hartmann, Stefan, Nikolas Koch, Antje Endesfelder Quick & Claudia Maria Riehl. 2025. sieht man schon die leuten an, wer deutsch spricht: Eine quantitative Analyse des Dativabbaus im Blumenau-Deutschen. In Adriano Murelli (ed.), Gesprochenes Deutsch heute, 195–214. De Gruyter. https://doi.org/10.1515/9783111532868-009.
+- Hartmann, Stefan & Tobias Ungerer. 2025. Chaos Theory, Shmaos Theory: Creativity and Routine in English shm -Reduplication. In Sabine Arndt-Lappe & Natalia Filatkina (eds.), Dynamics at the Lexicon-Syntax Interface, 295–322. Berlin, Boston: De Gruyter. [<a href="https://doi.org/10.1515/9783111321905-011">link</a>] .
+
+- Hartmann, Stefan, Nikolas Koch, Antje Endesfelder Quick & Claudia Maria Riehl. 2025. sieht man schon die leuten an, wer deutsch spricht: Eine quantitative Analyse des Dativabbaus im Blumenau-Deutschen. In Adriano Murelli (ed.), Gesprochenes Deutsch heute, 195–214. De Gruyter. [<a href="https://doi.org/10.1515/9783111532868-009">link</a>]
 
 - Pleyer, Michael & Stefan Hartmann. 2023. A usage-based perspective on evolutionary pragmatics. In: Ines Adornetti & Francesco Ferretti (eds.), Introducing Evolutionary Pragmatics: How Language Emerges from Use. London: Routledge.
 
-- Mikkelsen, Olaf & Stefan Hartmann. 2022. Competing future constructions and the complexity principle: A contrastive outlook. In Susanne Flach & Martin Hilpert (eds.), Broadening the spectrum of corpus linguistics: new approaches to variability and change (Studies in Corpus Linguistics volume 105), 9–40. Amsterdam ; Philadelphia: John Benjamins Publishing Company.
+- Mikkelsen, Olaf & Stefan Hartmann. 2022. Competing future constructions and the complexity principle: A contrastive outlook. In Susanne Flach & Martin Hilpert (eds.), Broadening the spectrum of corpus linguistics: new approaches to variability and change (Studies in Corpus Linguistics volume 105), 9–40. Amsterdam, Philadelphia: John Benjamins.
 
 - Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (2021): The emergence of sentence-internal capitalization in Early New High German: Towards a multifactorial quantitative account. In Marco Condorelli (ed.): Advances in diachronic orthography, 1500-1700. Cambridge: Cambridge University Press.
 
