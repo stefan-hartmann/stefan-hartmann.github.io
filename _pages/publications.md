@@ -20,7 +20,7 @@ Monographs
 Journal papers
 ======
 
-- Quick, Antje Endesfelder, Stefan Hartmann, Nikolas Koch, Stefan Hartmann & Paul Ibbotson (accepted):  A dynamic network approach to bilingual child data. <i>Cognitive Linguistics</i>.
+- Quick, Antje Endesfelder, Stefan Hartmann, Nikolas Koch, Stefan Hartmann & Paul Ibbotson (2026):  A dynamic network approach to bilingual child data. <i>Cognitive Linguistics</i>. [<a href="https://doi.org/10.1515/cog-2024-0105">open access</a>]
 
 - Baumann, Andreas & Stefan Hartmann. 2025. The chicken and the egg: unraveling aspects of semantic change and how they relate to lexical acquisition. <i>Cognition</i>. [<a href="https://doi.org/10.1016/j.cognition.2025.106301">open access</a>]
 
