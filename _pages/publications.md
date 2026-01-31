@@ -20,9 +20,11 @@ Monographs
 Journal papers
 ======
 
-- Baumann, Andreas & Stefan Hartmann. accepted. The chicken and the egg: unraveling aspects of semantic change and how they relate to lexical acquisition. <i>Cognition</i>.
+- Quick, Antje Endesfelder, Stefan Hartmann, Nikolas Koch & Stefan Hartmann (accepted):  A dynamic network approach to bilingual child data. <i>Cognitive Linguistics</i>.
 
-- Benítez Burraco, Antonio, Michael Pleyer & Stefan Hartmann. accepted. The role of play in language structure, acquisition, and evolution. <i>Language and Linguistics Compass</i>.
+- Baumann, Andreas & Stefan Hartmann. 2025. The chicken and the egg: unraveling aspects of semantic change and how they relate to lexical acquisition. <i>Cognition</i>. [<a href="https://doi.org/10.1016/j.cognition.2025.106301">open access</a>]
+
+- Benítez Burraco, Antonio, Michael Pleyer & Stefan Hartmann. 2025. The role of play in language structure, acquisition, and evolution. <i>Language and Linguistics Compass</i>. [<a href="https://doi.org/10.1111/lnc3.70021">open access</a>]
 
 - Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann. 2025. Recycling constructional patterns: The role of chunks in early bilingual acquisition. International Journal of Bilingualism 13670069251346103. https://doi.org/10.1177/13670069251346103.
 
@@ -98,12 +100,13 @@ Journal papers
 
 Editorial work
 ======
+- Speed, Laura J. & Stefan Hartmann (eds.) (in prep.) <i>Handbook of Language and Cognition</i>. London: Bloomsbury.
 
 - Quick, Antje Endesfelder, Nikolas Koch & Stefan Hartmann (eds.). forthc. Usage-Based Approaches to Multilingualism: Language Acquisition, Language Contact, Language Attrition. Berlin, Boston: De Gruyter.
 
 - Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (forthc.): Handbook of Germanic Writing Systems. Berlin, Boston: De Gruyter.
 
-- Schnee, Lena & Stefan Hartmann (eds.) (forthc.): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press.
+- Schnee, Lena & Stefan Hartmann (eds.) (2026): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press. [<a href="https://langsci-press.org/catalog/book/536">open access</a>]
 
 - Schnee, Lena, Henriette Huber & Stefan Hartmann (eds.). 2025. Historische Grammatik(en). (Jahrbuch für Germanistische Sprachgeschichte 16.) Berlin, Boston: De Gruyter. [<a href="https://www.degruyterbrill.com/journal/key/jbgsg/16/1/html">link</a>]
 
