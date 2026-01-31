@@ -20,7 +20,7 @@ Monographs
 Journal papers
 ======
 
-- Quick, Antje Endesfelder, Stefan Hartmann, Nikolas Koch & Stefan Hartmann (accepted):  A dynamic network approach to bilingual child data. <i>Cognitive Linguistics</i>.
+- Quick, Antje Endesfelder, Stefan Hartmann, Nikolas Koch, Stefan Hartmann & Paul Ibbotson (accepted):  A dynamic network approach to bilingual child data. <i>Cognitive Linguistics</i>.
 
 - Baumann, Andreas & Stefan Hartmann. 2025. The chicken and the egg: unraveling aspects of semantic change and how they relate to lexical acquisition. <i>Cognition</i>. [<a href="https://doi.org/10.1016/j.cognition.2025.106301">open access</a>]
 
@@ -102,27 +102,29 @@ Editorial work
 ======
 - Speed, Laura J. & Stefan Hartmann (eds.) (in prep.) <i>Handbook of Language and Cognition</i>. London: Bloomsbury.
 
+- Bender, Michael & Stefan Hartmann (eds.) (in prep.) Was machen wir mit KI - und was macht KI mit uns? <i>Mitteilungen des Deutschen Germanistenverbands</i>.
+
 - Quick, Antje Endesfelder, Nikolas Koch & Stefan Hartmann (eds.). forthc. Usage-Based Approaches to Multilingualism: Language Acquisition, Language Contact, Language Attrition. Berlin, Boston: De Gruyter.
 
 - Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (forthc.): Handbook of Germanic Writing Systems. Berlin, Boston: De Gruyter.
 
-- Schnee, Lena & Stefan Hartmann (eds.) (2026): Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press. [<a href="https://langsci-press.org/catalog/book/536">open access</a>]
+- Hartmann, Stefan & Lena Schnee (eds.). 2026.  Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press. [<a href="https://langsci-press.org/catalog/book/536">open access</a>]
 
 - Schnee, Lena, Henriette Huber & Stefan Hartmann (eds.). 2025. Historische Grammatik(en). (Jahrbuch für Germanistische Sprachgeschichte 16.) Berlin, Boston: De Gruyter. [<a href="https://www.degruyterbrill.com/journal/key/jbgsg/16/1/html">link</a>]
 
 - Hartmann, Stefan, Evelina Daniela Rodrigues, Michael Pleyer, Natlie Uomini & Nathalie Gontier (eds.) (2024): Comparative perspectives on multimodality and compositionality. Special issue of <i>International Journal of Primatology</i>.
 
-- Hartmann, Stefan, Jonas Nölle & Peeter Tinits (eds.) (2020): New directions in language evolution research. Special issue of Language Dynamics and Change. [<a href="https://brill.com/view/journals/ldc/10/1/ldc.10.issue-1.xml">Part 1</a>] [<a href="https://brill.com/view/journals/ldc/10/2/ldc.10.issue-2.xml">Part 2</a>]
+- Hartmann, Stefan, Jonas Nölle & Peeter Tinits (eds.). 2020. New directions in language evolution research. Special issue of Language Dynamics and Change. [<a href="https://brill.com/view/journals/ldc/10/1/ldc.10.issue-1.xml">Part 1</a>] [<a href="https://brill.com/view/journals/ldc/10/2/ldc.10.issue-2.xml">Part 2</a>]
 
-- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (2019): Historische Korpuslinguistik. (Jahrbuch für Germanistische Sprachgeschichte 10). Berlin, Boston: De Gruyter. [<a href="https://www.degruyter.com/journal/key/jbgsg/10/1/html">link</a>]
+- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.). 2019. <i>Historische Korpuslinguistik. </i>(Jahrbuch für Germanistische Sprachgeschichte 10). Berlin, Boston: De Gruyter. [<a href="https://www.degruyter.com/journal/key/jbgsg/10/1/html">link</a>]
 
-- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) (2020): Hexenverhörprotokolle als sprachhistorisches Korpus. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik). [<a href="https://doi.org/10.1515/9783110679649">link</a>]
+- Dücker, Lisa, Stefan Hartmann & Renata Szczepaniak (eds.) 2020. <i>Hexenverhörprotokolle als sprachhistorisches Korpus</i>. Berlin, Boston: De Gruyter (Reihe Germanistische Linguistik). [<a href="https://doi.org/10.1515/9783110679649">link</a>]
 
-- Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) (2019): Categorial shift – From description to theory and back again. Special issue of Language Sciences. 
+- Cuyckens, Hubert, Liesbet Heyvaert & Stefan Hartmann (eds.) 2019. Categorial shift – From description to theory and back again. Special issue of <i>Language Sciences</i>. 
 
-- Hartmann, Stefan, Michael Pleyer, James Winters & Jordan Zlatev (eds.) (2017): Interaction and iconicity in the evolution of language. Special issue of Interaction Studies. 
+- Hartmann, Stefan, Michael Pleyer, James Winters & Jordan Zlatev (eds.). 2017. Interaction and iconicity in the evolution of language. Special issue of <i>Interaction Studies</i>. 
 
-- Hartmann, Stefan (ed.) (2017): Yearbook of the German Cognitive Linguistics Association 2016. Berlin, New York: De Gruyter. [[link](https://www.degruyter.com/view/j/gcla.2017.5.issue-1/issue-files/gcla.2017.5.issue-1.xml)]
+- Hartmann, Stefan (ed.). 2017. <i>Yearbook of the German Cognitive Linguistics Association 2016</i>. Berlin, New York: De Gruyter. [[link](https://www.degruyter.com/view/j/gcla.2017.5.issue-1/issue-files/gcla.2017.5.issue-1.xml)]
 
 
 Handbook chapters
@@ -137,6 +139,8 @@ Handbook chapters
 
 Papers in edited volumes
 ======
+
+- Schnee, Lena & Stefan Hartmann. 2026. Constructional template or competitor? Revisiting the relation between German <i>werden</i> + Infinitive and <i>werden</i> + Present Participle based on new datasets. In Hartmann, Stefan & Lena Schnee (eds.). <i>Futures of the past. The diachrony of future constructions across languages</i>. Berlin: Language Science Press. [<a href="https://langsci-press.org/catalog/book/536">open access</a>]
 
 - Hartmann, Stefan & Tobias Ungerer. 2025. Chaos Theory, Shmaos Theory: Creativity and Routine in English shm -Reduplication. In Sabine Arndt-Lappe & Natalia Filatkina (eds.), Dynamics at the Lexicon-Syntax Interface, 295–322. Berlin, Boston: De Gruyter. [<a href="https://doi.org/10.1515/9783111321905-011">link</a>] .
 
