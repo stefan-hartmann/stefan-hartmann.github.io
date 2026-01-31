@@ -26,11 +26,11 @@ Journal papers
 
 - Benítez Burraco, Antonio, Michael Pleyer & Stefan Hartmann. 2025. The role of play in language structure, acquisition, and evolution. <i>Language and Linguistics Compass</i>. [<a href="https://doi.org/10.1111/lnc3.70021">open access</a>]
 
-- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann. 2025. Recycling constructional patterns: The role of chunks in early bilingual acquisition. International Journal of Bilingualism 13670069251346103. https://doi.org/10.1177/13670069251346103.
-
-- Ungerer, Tobias & Stefan Hartmann. 2024. Contrastive is the new black: A cross-linguistic study of a ‘snowclone’ in English, German, and Spanish. Quaderns de Filologia XXIX. 217–235.
+- Koch, Nikolas, Antje Endesfelder Quick & Stefan Hartmann. 2025. Recycling constructional patterns: The role of chunks in early bilingual acquisition. International Journal of Bilingualism. [<a href="https://doi.org/10.1177/13670069251346103">open access</a>].
 
 - Neumair, Phillip A., Fiona M. Gehrecke, Stefan Hartmann & Alexander Ziem. (2025): A frame-semantic approach to conceptual metaphors in the domain of emotion. <i>Language and Cognition</i>, special issue "Emotions & Corpora", ed. by Małgorzata Fabiszak & Dylan Glynn. [[open access](https://doi.org/10.1017/langcog.2024.37)].
+
+- Ungerer, Tobias & Stefan Hartmann. 2024. Contrastive is the new black: A cross-linguistic study of a ‘snowclone’ in English, German, and Spanish. Quaderns de Filologia XXIX. 217–235. [<a href="https://doi.org/10.7203/QF.29.28712">open access</a>]
 
 - Hetjens, Dominik & Stefan Hartmann (2024): Effects of Gender Sensitive Language in Job Listings: A Study on Real-Life User Interaction. <i>PLoS One</i>. [[open access](https://doi.org/10.1371/journal.pone.0308072)]
 
