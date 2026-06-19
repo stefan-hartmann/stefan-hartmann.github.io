@@ -129,6 +129,9 @@ Editorial work
 
 Handbook chapters
 ======
+- Hartmann, Stefan & Eric Engel. 2026. Open Research and Data Standards. In Reference Module in Social Sciences, B9780323955041015295. Elsevier. https://doi.org/10.1016/B978-0-323-95504-1.01529-5. [<a href="https://doi.org/10.31234/osf.io/m4etb_v1">preprint</a>]
+
+- Hartmann, Stefan. 2026. Constructionalisation / Constructional Change. In International Encyclopedia of Language and Linguistics, 537–540. Elsevier. https://doi.org/10.1016/B978-0-323-95504-1.00571-8. [<a href=" https://doi.org/10.31234/osf.io/rcs48_v1 ">preprint</a>]
 
 - Hartmann, Stefan & Michael Pleyer. 2025. Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution, 111–126. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780192886491.013.7. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
