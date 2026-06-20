@@ -129,15 +129,15 @@ Editorial work
 
 Handbook chapters
 ======
-- Hartmann, Stefan & Eric Engel. 2026. Open Research and Data Standards. In Reference Module in Social Sciences, B9780323955041015295. Elsevier. https://doi.org/10.1016/B978-0-323-95504-1.01529-5. [<a href="https://doi.org/10.31234/osf.io/m4etb_v1">preprint</a>]
+- Hartmann, Stefan & Eric Engel. 2026. Open Research and Data Standards. In <i>International Encyclopedia of Language and Linguistics</i>. <a href="https://doi.org/10.1016/B978-0-323-95504-1.01529-5">https://doi.org/10.1016/B978-0-323-95504-1.01529-5</a>. [<a href="https://doi.org/10.31234/osf.io/m4etb_v1">preprint</a>]
 
-- Hartmann, Stefan. 2026. Constructionalisation / Constructional Change. In International Encyclopedia of Language and Linguistics, 537–540. Elsevier. https://doi.org/10.1016/B978-0-323-95504-1.00571-8. [<a href=" https://doi.org/10.31234/osf.io/rcs48_v1 ">preprint</a>]
+- Hartmann, Stefan. 2026. Constructionalisation / Constructional Change. In <i>International Encyclopedia of Language and Linguistics</i>. <a href="https://doi.org/10.1016/B978-0-323-95504-1.00571-8">https://doi.org/10.1016/B978-0-323-95504-1.00571-8</a>. [<a href=" https://doi.org/10.31234/osf.io/rcs48_v1 ">preprint</a>]
 
-- Hartmann, Stefan & Michael Pleyer. 2025. Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution, 111–126. Oxford University Press. https://doi.org/10.1093/oxfordhb/9780192886491.013.7. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
+- Hartmann, Stefan & Michael Pleyer. 2025. Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution, 111–126. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780192886491.013.7">https://doi.org/10.1093/oxfordhb/9780192886491.013.7</a>. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
 - Hartmann, Stefan. (2024). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955. [[link](https://oxfordre.com/linguistics/display/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-955)] [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
-- Hartmann, Stefan & Renata Szczepaniak. (2023). Elements of writing systems. In Marco Condorelli & Hanna Rutkowska (eds.), Cambridge Handbook of Historical Orthography, 50–73. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108766463.003.
+- Hartmann, Stefan & Renata Szczepaniak. (2023). Elements of writing systems. In Marco Condorelli & Hanna Rutkowska (eds.), Cambridge Handbook of Historical Orthography, 50–73. Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/9781108766463.003">https://doi.org/10.1017/9781108766463.003</a>.
 
 
 Papers in edited volumes
