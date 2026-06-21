@@ -20,6 +20,8 @@ Monographs
 Journal papers
 ======
 
+- Kuleshova, Svetlana, Aleksandra Ćwiek, Stefan Hartmann, Michael Pleyer, Marta Sibierska, Marek Placiński, Johan Blomberg, Przemysław Żywiczyński & Sławomir Wacewicz. 2026. Exploring the Guessing‐Game Experimental Paradigm: Inferences From Closed‐ Versus Open‐Ended Semantic Space. <i>Cognitive Science</i> 50(3). <a href="https://doi.org/10.1111/cogs.70199">open access</a>.
+
 - Quick, Antje Endesfelder, Stefan Hartmann, Nikolas Koch, Stefan Hartmann & Paul Ibbotson (2026):  A dynamic network approach to bilingual child data. <i>Cognitive Linguistics</i>. [<a href="https://doi.org/10.1515/cog-2024-0105">open access</a>]
 
 - Baumann, Andreas & Stefan Hartmann. 2025. The chicken and the egg: unraveling aspects of semantic change and how they relate to lexical acquisition. <i>Cognition</i>. [<a href="https://doi.org/10.1016/j.cognition.2025.106301">open access</a>]
@@ -104,9 +106,11 @@ Editorial work
 
 - Bender, Michael & Stefan Hartmann (eds.) (in prep.) Was machen wir mit KI - und was macht KI mit uns? <i>Mitteilungen des Deutschen Germanistenverbands</i>.
 
-- Quick, Antje Endesfelder, Nikolas Koch & Stefan Hartmann (eds.). forthc. Usage-Based Approaches to Multilingualism: Language Acquisition, Language Contact, Language Attrition. Berlin, Boston: De Gruyter.
+- Quick, Antje Endesfelder, Nikolas Koch & Stefan Hartmann (eds.). forthc. <i>Usage-Based Approaches to Multilingualism: Language Acquisition, Language Contact, Multilingual Language Use.</i> Berlin, Boston: De Gruyter.
 
-- Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (forthc.): Handbook of Germanic Writing Systems. Berlin, Boston: De Gruyter.
+- Meletis, Dimitrios, Stefan Hartmann & Rebecca Treiman (forthc.): <i>Handbook of Germanic Writing Systems</i>. Berlin, Boston: De Gruyter.
+
+- Hartmann, Stefan, Marta Sibierska, Marlen Fröhlich, Yannick Jadoul, Mathilde Josserand, Theresa Matzinger, Katie Mudd, Jonas Nölle, Michael Pleyer, Sławomir Wacewicz & Przemysław Żywiczyński (eds.). 2026. <i>The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI)</i>. <a href="https://doi.org/10.17617/2.3696655">open access</a>.
 
 - Hartmann, Stefan & Lena Schnee (eds.). 2026.  Futures of the past. The diachrony of future constructions across languages. Berlin: Language Science Press. [<a href="https://langsci-press.org/catalog/book/536">open access</a>]
 
@@ -142,6 +146,9 @@ Handbook chapters
 
 Papers in edited volumes
 ======
+- Hartmann, Stefan. 2026. „Wandernde“ Kasusmorpheme: Variation, Fehler oder Vorboten des Sprachwandels? In Annelen Brunner, Gabriele Diewald, Sandra Hansen, Kristin Kopf & Angelika Wöllstein (eds.), Deutsch im Wandel, 275–298. Berlin, Boston: De Gruyter. <a href="https://doi.org/10.1515/9783112240151-014">link</a>. [<a href="https://osf.io/ut6fp/overview">Data & preprint</a>]
+
+- Baumann, Andreas, Michelle van de Bilt & Stefan Hartmann. 2026. Historical evolution of lexical concreteness re-revisited. In Stefan Hartmann, Marta Sibierska, Marlen Fröhlich, Yannick Jadoul, Mathilde Josserand, Theresa Matzinger, Katie Mudd, Jonas Nölle, Michael Pleyer, Sławomir Wacewicz & Przemysław Żywiczyński (eds.), The Evolution of Language: Proceedings of the 16th International Conference (EVOLANG XVI), 23–30. Nijmegen: MPI for Psycholinguistics. [<a href="https://doi.org/10.17617/2.3696655">open access</a>].
 
 - Schnee, Lena & Stefan Hartmann. 2026. Constructional template or competitor? Revisiting the relation between German <i>werden</i> + Infinitive and <i>werden</i> + Present Participle based on new datasets. In Hartmann, Stefan & Lena Schnee (eds.). <i>Futures of the past. The diachrony of future constructions across languages</i>. Berlin: Language Science Press. [<a href="https://langsci-press.org/catalog/book/536">open access</a>]
 
