@@ -137,6 +137,8 @@ Handbook chapters
 
 - Hartmann, Stefan. 2026. Constructionalisation / Constructional Change. In <i>International Encyclopedia of Language and Linguistics</i>. <a href="https://doi.org/10.1016/B978-0-323-95504-1.00571-8">https://doi.org/10.1016/B978-0-323-95504-1.00571-8</a>. [<a href=" https://doi.org/10.31234/osf.io/rcs48_v1 ">preprint</a>]
 
+- Nölle, Jonas M., Andres Karjus & Stefan Hartmann. 2026. Evolutionary linguistics. In In <i>International Encyclopedia of Language and Linguistics</i>. <a href="https://doi.org/10.1016/B978-0-323-95504-1.00907-8">https://doi.org/10.1016/B978-0-323-95504-1.00907-8</a>. [<a href="https://osf.io/preprints/psyarxiv/rt5ha_v1">preprint</a>]
+
 - Hartmann, Stefan & Michael Pleyer. 2025. Corpus-based approaches to evolutionary dynamics in language. In Limor Raviv & Cedric Boeckx (eds.), The Oxford Handbook of Approaches to Language Evolution, 111–126. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780192886491.013.7">https://doi.org/10.1093/oxfordhb/9780192886491.013.7</a>. [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
 
 - Hartmann, Stefan. (2024). Derivation in Germanic. In Sebastian Kürschner and Antje Dammel (eds.), Oxford Encyclopedia of Germanic Linguistics. Oxford: Oxford University Press. doi: 10.1093/acrefore/9780199384655.013.955. [[link](https://oxfordre.com/linguistics/display/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-955)] [[preprint](https://osf.io/preprints/psyarxiv/z5k47)]
