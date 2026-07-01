@@ -12,6 +12,7 @@ I am a linguist currently working at Heinrich Heine University Düsseldorf, Germ
 <b>Some current projects</b>
 
 <ul>
+  <li><strong>Mocking Metaphor: The use of figurative language in parody religions.</strong> This project is part of CRC 1475 <a href="https://sfb1475.ruhr-uni-bochum.de/en/news/">"Metaphors of Religion"</a>. It investigates the role of conceptual metaphor in parody religions in comparison to "actual" religions. More information following soon!</li>
   <li><b>Morphology Materializing: Morpheme forms and bondaries in spontaneously written language</b>. This project investigates the influence of mporphological boundaries on written language. (Collaborator: Kristian Berg, University of Bonn; funded by the German Research Foundation [DFG]).</li>
   <li><b>German future constructions</b>: How is future reference encoded in historical and present-day German? (Collaborator: Lena Schnee, HHU Düsseldorf; funded by the German Research Foundation [DFG])</li>
   <li><b>Constructional patterns in multilingual first language acquisition</b>: How can constructional patterns account for code-mixing phenomena in the early language use of bilinguals? (Collaborators: Verena Dederer and Nikolas Koch, LMU Munich, Antje Endesfelder Quick, University of Leipzig; funded by the German Research Foundation [DFG])</li>
